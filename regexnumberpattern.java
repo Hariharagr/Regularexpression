@@ -1,5 +1,5 @@
 import java.io.*;
-import java .util.regex.*;
+import java.util.regex.*;
 class regexnumberpattern
 {
 	public static void main(String[] args) throws Exception
