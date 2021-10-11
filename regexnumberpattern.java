@@ -16,6 +16,6 @@ class regexnumberpattern
 				out.println(m.group());
 			}
 		}
-
+                line = br.readLine();
 	}
 }
